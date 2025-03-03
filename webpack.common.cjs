@@ -43,7 +43,7 @@ module.exports = {
     },
     plugins: [
         new MiniCssExtractPlugin({
-            filename: "build/css/[name].css",
+            filename: "css/[name].css",
         }),
         new WebpackManifestPlugin({
             map: function (fileDescriptor) {

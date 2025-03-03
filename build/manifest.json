@@ -1,6 +1,6 @@
 {
-  "daisyui.css": "/build/build/css/daisyui.css",
+  "daisyui.css": "/build/css/daisyui.css",
   "daisyui.js": "/build/js/daisyui.js",
-  "daisyui.css.map": "/build/build/css/daisyui.css.map",
+  "daisyui.css.map": "/build/css/daisyui.css.map",
   "daisyui.js.map": "/build/js/daisyui.js.map"
 }
